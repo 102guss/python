@@ -5,5 +5,5 @@ for j in rango:
     for i  in rango:
         print( " *",end="")
     print("") #esto es un salto de linea de parte de pyton: es como un println en java
-    
+
 
