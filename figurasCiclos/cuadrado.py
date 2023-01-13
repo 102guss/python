@@ -6,4 +6,7 @@ for j in rango:
         print( " *",end="")
     print("") #esto es un salto de linea de parte de pyton: es como un println en java
 
+print("ofgfgfg")
+print("sdsdsd")
+
 
