@@ -1,0 +1,15 @@
+#atajos python
+
+control+k+c para comentar varias lineas
+control+k+u para descomentar varias lineas
+
+comados CMD:
+python----para entrara python
+exit()----para salir del cmd de  python
+cls---para limpiar pantalla
+------------------
+cd desktop
+cd carpeta python 
+-------------------para moverse entre las carpetas
+python + tab para autocompletar texto anteriormente escrito
+control + flechas izquierda o derecha para volver a repetir instrucciones
