@@ -3,3 +3,5 @@ numero = int(x)
 rango = range(numero)
 
 for i in rango:
+    print("*",end = "")
+    
